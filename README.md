@@ -1,5 +1,5 @@
 Lab 1 :okey  Kubernates  
-Lab 2 :okey  Docker Ubuntu bionic server
+Lab 2 :okey  Docker Ubuntu bionic serve 
 Lab 3 :okey  
 Lab 4 :okey
 Lab 5 :okey
