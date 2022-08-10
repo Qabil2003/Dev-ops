@@ -8,4 +8,4 @@ Lab 7 :okey
 Lab 8 :okey
 Lab 9 :okey
 ***Azerbaycan***
- :Grinnning:
+ :grinning:
