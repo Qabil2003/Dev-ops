@@ -1,6 +1,6 @@
 Lab 1 :okey  Kubernates  
-Lab 2 :okey  Docker Ubuntu bionic serve 
-Lab 3 :okey  
+Lab 2 :okey  Docker Ubuntu bionic server
+Lab 3 :okey  Network file server and client
 Lab 4 :okey
 Lab 5 :okey
 Lab 6 :okey
